@@ -1,8 +1,17 @@
-# TP4DPBO2425C1
+# JANJI
+Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP4 pada mata kuliah DPBO untuk keberkahannya saya menyatakan bahwa saya tidak melakukan kecurangan sebagaimana yang dispesifikasikan.
 
-**JANJI**
-Saya 
 
-**Desain Program**
+---
 
-**Penjelasan Alur**
+# Desain Program
+
+---
+
+# Alur
+
+---
+
+# Dokumentasi
+
+--
