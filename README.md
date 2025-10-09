@@ -12,6 +12,7 @@ kelas ini memiliki beberapa atribut :
 - `harga` -> harga produk
 - `kategori` -> kategori produk
 - `rating` -> rating untuk produk (1-5)
+  
 Method :
 - **Constructor**
 - **Getter & Setter**
