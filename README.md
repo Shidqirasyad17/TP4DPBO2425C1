@@ -47,8 +47,7 @@ Fungsi :
 
 # Dokumentasi
 
-
-https://github.com/user-attachments/assets/02bd3e53-27a6-418b-9a89-b0378e9b434e
+![Recording2025-10-09140223-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ac80e9df-7d6e-4384-aaf5-8cd771b1ad36)
 
 
 --
