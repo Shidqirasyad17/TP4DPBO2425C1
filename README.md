@@ -5,7 +5,7 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP4 pada mata kulia
 ---
 
 ## Desain Program
-### Class Product
+### `Class Product`
 kelas ini memiliki beberapa atribut :
 - `id` -> ID produk
 - `nama` -> nama produk
@@ -17,7 +17,7 @@ Method :
 - **Constructor**
 - **Getter & Setter**
 
-### Class ProductMenu
+### `Class ProductMenu`
 Kelas ini mengatur GUI serta logika CRUD untuk data produk.
 
 Fungsi : 
