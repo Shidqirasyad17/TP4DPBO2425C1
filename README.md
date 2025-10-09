@@ -15,8 +15,8 @@ kelas ini memiliki beberapa atribut :
 Method :
 - **Constructor**
 - **Getter & Setter**
-##
-### Class ProductMenu
+
+#### Class ProductMenu
 class ini mengatur GUI dan logika **CRUD**
 
 fungsi :
