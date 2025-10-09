@@ -29,7 +29,7 @@ Fungsi :
 
 ---
 
-## Alur1
+## Alur
 1. Program dijalankan
 2. Data awal produk
 3. Tabel produk
