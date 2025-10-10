@@ -86,14 +86,14 @@ public class ProductMenu extends JFrame {
         deleteButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                // TODO: tambahkan konfirmasi sebelum menghapus data
+                // konfirmasi sebelum menghapus data
                 int confirm =  JOptionPane.showConfirmDialog(
                         null, "Apakah anda yakin menghapus data ini?",
                             "Konfirmasi Hapus",
-                        JOptionPane.YES_NO_OPTION
+                        JOptionPane.YES_NO_OPTION 
                 );
                 if (confirm == JOptionPane.YES_OPTION){
-                deleteData();
+                deleteData(); //panggil method hapus data
                 }
             }
         });
@@ -247,4 +247,5 @@ public class ProductMenu extends JFrame {
         listProduct.add(new Product("P014", "Pulpen Gel", 5000.0, "Alat Tulis", 5));
         listProduct.add(new Product("P015", "Teh Botol", 8000.0, "Minuman", 4));
     }
+
 }
